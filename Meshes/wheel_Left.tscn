@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://oq5o3hul0ib"]
+
+[ext_resource type="PackedScene" uid="uid://be1vck3jje2lu" path="res://Assets/Import/Monteri/Wheel.glb" id="1_30i5l"]
+
+[node name="Wheel" instance=ExtResource("1_30i5l")]
+transform = Transform3D(-4.37114e-08, -1, 4.37114e-08, 0, -4.37114e-08, -1, 1, -4.37114e-08, 1.91069e-15, 0, 0, 0)

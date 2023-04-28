@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://pfdnv7jpc4ue"]
+
+[ext_resource type="PackedScene" uid="uid://u0pmy5mwxw2e" path="res://Assets/Import/Monteri/Monteri.glb" id="1_l871a"]
+
+[node name="Monteri" instance=ExtResource("1_l871a")]

@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://csbt4aevidg1l"]
+
+[ext_resource type="PackedScene" uid="uid://d3wrrhuox2boj" path="res://Assets/Import/SuspensionTest.glb" id="1_0yh5y"]
+
+[node name="SuspensionTest" instance=ExtResource("1_0yh5y")]

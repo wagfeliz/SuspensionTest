@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cfogn271j56ca"]
+
+[ext_resource type="Script" path="res://Classes/WheelController.gd" id="1_qnswc"]
+
+[node name="WheelController" type="Node3D"]
+script = ExtResource("1_qnswc")
+
+[node name="RayCast3D" type="RayCast3D" parent="."]
+debug_shape_custom_color = Color(0.521569, 0, 0, 1)
